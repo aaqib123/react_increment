@@ -12,7 +12,6 @@ class App extends Component {
       { id: 4, value: 0 }
     ]
   };
-<<<<<<< HEAD
 
 handleDelete = (counterId) => {
   console.log('event handler called',counterId);
